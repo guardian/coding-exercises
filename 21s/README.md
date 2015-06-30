@@ -16,7 +16,9 @@ Potential tasks for the pairing test:
 * determine score of a hand[1]
 * before picking cards see if player or dealers hand is blackjack (total score 21) and wins.
 * for any plays where the above is not true then each player in turn picks cards from the top of the shoe
-* the players can determine when to stop picking cards (perhaps a pre-determine limit per game)
+* there is no limit to cap to the cards drawn
+* the player should aim to get a higher score than the dealer
+* if the player has a higher score than the dealer but not reached 21 then choice to draw or stick is 50:50.
 * totals above 21 are bust and the player is out of the game
 * after all the players have picked the dealer can pick cards from the top of the shoe
 * the dealer score must be above 17 and cannot pick futher cards once this limit has been reached.
