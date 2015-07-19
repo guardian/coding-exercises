@@ -60,12 +60,18 @@ So if there are orders for two sandwiches and a jacket potato the schedule shoul
 
 I only have limited ingredients in the shack: I can make 45 sandwiches and 30 jacket potatoes. Orders for something that is sold out should not be accepted and it reflect to the user whether there is an alternative available or whether everything is sold out.
 
+## So popular!
+
+People actually like my sandwiches and potatoes! Some are willing to wait longer to get their order.
+
+Please modify the order system to allow the customer to optionally say how long they are willing to wait for their food. Only reject the order if the current schedule makes it impossible to serve it in the time requested.
+
 ## Many microwaves
 
 I have been silly, while there is only one me I can have many microwaves in the shack. Modify the schedule to reflect the fact that I can now microwave two potatoes at a time.
 
-## So popular!
+## Advance orders
 
-People actually like my sandwiches and potatoes! Some are willing to wait longer than I expected to get their order.
+Some people would like to place an order for collection at a specific time. They will pay in advance so I won't need to serve their order but just have it ready in time.
 
-Please modify the order system to allow the customer to say how long they are willing to wait for their food. Only reject the order if the current schedule makes it impossible to serve it in the time requested.
+Change the order placement to allow a preferred time to specified (wait time is irrelevant in this case) if the order can be served within five minutes of the desired time then accept the order and return the actual ready time. 
