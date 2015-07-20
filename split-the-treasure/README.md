@@ -10,11 +10,13 @@ Write a program that says whether the treasure can be split or not and how the t
 
 ## Example chests
 
+[4,4,4] can be split between three treasure seekers with each one receive one gem
+
 [27,7,20] can only be split between two treasure seekers
 
 [6,3,2,4,1] can be split between two treasure seekers (8 each, [6, 2], [3,4,1]) but not between three or four
 
-[3,2,7,7,14,5,3,4,9,2] can be split between four treasure seekers, how would the gems have to be different for it to be possible to split them between six people?
+[3,2,7,7,14,5,3,4,9,2] can be split between four treasure seekers. Keeping the same total value of the treasure chest: how would the gems have to be different for it to be possible to split them between six people?
 
 ## Bonus question
 
