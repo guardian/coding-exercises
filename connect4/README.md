@@ -8,16 +8,19 @@ https://en.wikipedia.org/wiki/Connect_Four
 
 ## Tasks
 
-1. Model a 6 x 7 grid (should be visualised)
-2. Players should be able to play pieces sequentially
-3. The game should identify winning turns and end at that point
+The aim is to develop an interactive version of the game which the
+candidate and interviewer can play together.
 
-While not, required, candidates and interviewers are encouraged to
-play via the REPL. A basic text-based representation of the board and
-pieces is suggested.
+A simple, text-based, representation of the grid is encouraged to
+start with. For example, you might use '.' for empty slots, and 'x'
+and 'o' for pieces of the two players. Players can input their turns
+via the REPL.
 
-Interviewers should be able to help with IO methods - reading input,
-and printing output.
+A minimal version of the game should support:
+
+- a 6 x 7 grid
+- players play pieces sequentially
+- the game identifies winning turns and ends at that point
 
 ## Bonus rounds
 
