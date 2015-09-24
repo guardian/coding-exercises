@@ -32,7 +32,7 @@ If the robot starts in the south-west corner of the warehouse then the following
 
 The robot is equipped with a lifting claw which can be used to move crates around the warehouse. We track the locations of all the crates in the warehouse.
 
-Model the presence of crates in the warehouse.
+Model the presence of crates in the warehouse. Initially one is in the centre and one in the north-east corner.
 
 Extend the robot's commands to include the following:
 
@@ -50,3 +50,4 @@ There are some rules about moving crates:
 We have expanded the robot's grid system to include diagonal tracks. Modify the robot's movement so that it can take advantage of the new diagonals. We don't want to change all the movement programmes though so don't change the syntax of the commands we send.
 
 So for example if the robot starts in the south-west corner of the warehouse then issuing the command "E N" should move the robot to the same place as if it moved east once and north once but it should only move once.
+
