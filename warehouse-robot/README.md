@@ -32,7 +32,7 @@ If the robot starts in the south-west corner of the warehouse then the following
 
 The robot is equipped with a lifting claw which can be used to move crates around the warehouse. We track the locations of all the crates in the warehouse.
 
-Model the presence of crates in the warehouse.
+Model the presence of crates in the warehouse. Initially one is in the centre and one in the north-east corner.
 
 Extend the robot's commands to include the following:
 
