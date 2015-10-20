@@ -17,7 +17,7 @@ The robot should accept the following commands:
 
 ### Example command sequences
 
-The command sequence: "N E S W" will move the robot in a circle, returning it to where it started.
+The command sequence: "N E S W" will move the robot in a full square, returning it to where it started.
 
 If the robot starts in the south-west corner of the warehouse then the following commands will move it to the middle of the warehouse.
 
