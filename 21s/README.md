@@ -18,13 +18,14 @@ Can you beat the dealer at 21
 * determine which player wins the game
 
 Additions
+* ace can be valued at 1 or 11, implement this change into the scoring of a hand.
+* add another deck of playing cards that can be shuffled into the original shuffled deck
 * add a new player (called Alex) to the game
 * Sam and Alex must play their hand against the Dealer
 * Alex plays the same rules as Sam when drawing cards
 * the dealer must draw cards from the deck after Sam and Alex
-* radomise who gets to pick cards first between Sam and Alex
+* randomise who gets to draw cards first between Sam and Alex
 
-
-[1] Numbered cards are their point value. Jack, Queen and King count as 10. Ace counts as 1 or 11 and can be changed to make the most preferable hand.
+[1] Numbered cards are their point value. Jack, Queen and King count as 10 and Ace counts as 11.
 
 [More info on the rules] (http://www.pagat.com/banking/blackjack.html)
