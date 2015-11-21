@@ -12,15 +12,15 @@ Can you write a program that takes orders from customers and sequences what I sh
 
 So if I have four sandwich orders the schedule should be:
 
-0:00 4 sandwich orders placed, start making sandwich 1
-0:60 serve sandwich 1
-1:30 make sandwich 2
-2:30 serve sandwich 2
-3:00 make sandwich 3
-4:00 serve sandwich 3
-4:30 make sandwich 4
-5:30 serve sandwich 4
-6:00 take a well earned break!
+1. 0:00 4 sandwich orders placed, start making sandwich 1
+1. 0:60 serve sandwich 1
+1. 1:30 make sandwich 2
+1. 2:30 serve sandwich 2
+1. 3:00 make sandwich 3
+1. 4:00 serve sandwich 3
+1. 4:30 make sandwich 4
+1. 5:30 serve sandwich 4
+1. 6:00 take a well earned break!
 
 ## Estimates
 
@@ -36,7 +36,7 @@ Modify the order placement so that it rejects orders that cannot be served in ti
 
 ## Jacket potatoes
 
-Sandwiches are great but people really want the option of hot food too. I've decided to offer jacket potatoes. Jacket potatoes are pre-baked but need to be heated in my single microwave for 2 and half minutes. I then need 30 seconds to top them and 30 seconds to serve them.
+Sandwiches are great but people really want the option of hot food too. I've decided to offer jacket potatoes. Jacket potatoes are pre-baked but need to be heated in a microwave for 2 and half minutes. I then need 30 seconds to top them and 30 seconds to serve them.
 
 Jacket potatoes go cold again if they are not served within two minutes of being heated.
 
@@ -46,32 +46,20 @@ Please modify the order system to include jacket potatoes.
 
 So if there are orders for two sandwiches and a jacket potato the schedule should be:
 
-0:00 Put jacket potato in microwave
-0:01 Make sandwich 1
-1:01 Serve sandwich 2
-1:31 Make sandwich 2
-2:31 Serve sandwich 2
-3:01 take jacket potato out of microwave
-3:31 top jacket potato
-4:01 serve jacket potato
-4:31 take a break!
+1. 0:00 Put jacket potato in microwave
+1. 0:01 Make sandwich 1
+1. 1:01 Serve sandwich 2
+1. 1:31 Make sandwich 2
+1. 2:31 Serve sandwich 2
+1. 3:01 take jacket potato out of microwave
+1. 3:31 top jacket potato
+1. 4:01 serve jacket potato
+1. 4:31 take a break!
 
 ## Inventory
 
 I only have limited ingredients in the shack: I can make 45 sandwiches and 30 jacket potatoes. Orders for something that is sold out should not be accepted and it reflect to the user whether there is an alternative available or whether everything is sold out.
 
-## So popular!
+## More microwaves, more potatoes?
 
-People actually like my sandwiches and potatoes! Some are willing to wait longer to get their order.
-
-Please modify the order system to allow the customer to optionally say how long they are willing to wait for their food. Only reject the order if the current schedule makes it impossible to serve it in the time requested.
-
-## Many microwaves
-
-I have been silly, while there is only one me I can have many microwaves in the shack. Modify the schedule to reflect the fact that I can now microwave two potatoes at a time.
-
-## Advance orders
-
-Some people would like to place an order for collection at a specific time. They will pay in advance so I won't need to serve their order but just have it ready in time.
-
-Change the order placement to allow a preferred time to specified (wait time is irrelevant in this case) if the order can be served within five minutes of the desired time then accept the order and return the actual ready time. 
+If I buy more microwaves then I can cook more potatoes simultaneously. Modify the program so that I configure how many microwaves I have. The program should warn me if I try to start more jacket potatoes than I can finish and serve.
