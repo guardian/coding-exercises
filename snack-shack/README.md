@@ -34,6 +34,10 @@ People expect to be able to get their sandwich quickly. If they have to wait mor
 
 Modify the order placement so that it rejects orders that cannot be served in time.
 
+## Inventory
+
+I only have limited ingredients in the shack: I can only make 45 sandwiches. Orders for something that is sold out should not be accepted. Add inventory tracking to the program and reject orders that cannot be fulfilled.
+
 ## Jacket potatoes
 
 Sandwiches are great but people really want the option of hot food too. I've decided to offer jacket potatoes. Jacket potatoes are pre-baked but need to be heated in a microwave for 2 and half minutes. I then need 30 seconds to top them and 30 seconds to serve them.
@@ -56,9 +60,9 @@ So if there are orders for two sandwiches and a jacket potato the schedule shoul
 1. 4:01 serve jacket potato
 1. 4:31 take a break!
 
-## Inventory
+### Potato inventory
 
-I only have limited ingredients in the shack: I can make 45 sandwiches and 30 jacket potatoes. Orders for something that is sold out should not be accepted and it reflect to the user whether there is an alternative available or whether everything is sold out.
+ I have enough stock to serve 30 jacket potatoes. Modify the program so that I it rejects orders for an item that is sold out. However it should now offer an alternative if it is available, so if I order a sandwich and they are sold out then I should see a list of alternatives that lists a jacket potato.
 
 ## More microwaves, more potatoes?
 
