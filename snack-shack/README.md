@@ -52,7 +52,7 @@ So if there are orders for two sandwiches and a jacket potato the schedule shoul
 
 1. 0:00 Put jacket potato in microwave
 1. 0:01 Make sandwich 1
-1. 1:01 Serve sandwich 2
+1. 1:01 Serve sandwich 1
 1. 1:31 Make sandwich 2
 1. 2:31 Serve sandwich 2
 1. 3:01 take jacket potato out of microwave
