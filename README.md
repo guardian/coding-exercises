@@ -6,7 +6,7 @@ This repo contains the pairing test exercises that are used in the Guardian recr
 
 Inspired to [work for us](http://developers.theguardian.com/join-the-team.html)?
 
-Interviewers, please read the [guidelines](https://docs.google.com/document/d/1DegP-3YBTzJoM3tLuo-yenZjDqfFRTOW2zozXBzdnTE).
+Interviewers, please read the [guidelines](https://docs.google.com/document/d/1ergle34ZDP5j8brTnhjnti7sMfLuykmY5E0c_6MS3bE).
 
 ## License
 
