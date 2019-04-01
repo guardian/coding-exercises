@@ -1,3 +1,5 @@
+Write a cellular automata that models the [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+
 Requirement Cards:
 
 1. A cell can be made "alive"
