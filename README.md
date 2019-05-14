@@ -1,12 +1,8 @@
-# Guardian pairing tests
+# 101 Ways pairing tests
 
-This repo contains the pairing test exercises that are used in the Guardian recruitment process.
+*Kudos to the team at the Guardian who came up with these pairing tests*
 
-[Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
-
-Inspired to [work for us](http://developers.theguardian.com/join-the-team.html)?
-
-Interviewers, please read the [guidelines](https://docs.google.com/document/d/1DegP-3YBTzJoM3tLuo-yenZjDqfFRTOW2zozXBzdnTE).
+This repo contains the pairing test exercises that are used in the 101 Ways recruitment process.
 
 ## License
 
