@@ -29,8 +29,6 @@ We’re not assessing a candidate’s pure technical ability and searching onlin
 
 Whilst Scala or JavaScript, Swift/Objective C for iOS, Kotlin or Java for Android, are the preferred languages, a candidate can elect their own.
 
-The candidate should be the driver in the pairing exercise (especially so if you are not  familiar with the language).
-
 In a few cases, it may be applicable for you to drive and the candidate to navigate. For example if the candidate has no knowledge about the language they have chosen. This should be rare.
 
 ## What exercise?
