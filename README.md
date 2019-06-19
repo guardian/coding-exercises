@@ -13,7 +13,7 @@ It is a 45-60 minute exercise where you and the candidate work as a pair writing
 
 Similar to when you pair with a colleague, there will be a driver and a navigator. The driver will be the one at the keyboard, whilst the navigator will be on the side making suggestions and asking questions.
 
-You’ll typically play the role of navigator.
+The candidate will typically play the role of driver and the interviewer will be the navigator.
 
 ## Why do we perform it?
 [From: How does the Guardian recruit developers?](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers)
@@ -41,7 +41,7 @@ We have a public repository on GitHub with our pairing exercises. These exercise
 
 We have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
 
-## Before the interview
+## Preparation for the interviewer
 Choose a pairing exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
 
 Turn off notifications and other possible distractions for the candidate; an easy way to do this is to use a different browser profile and closing your work profile.
@@ -55,7 +55,7 @@ Offer the candidate a drink.
 Explain what you’re going to be doing today.
 > This is the pairing test stage of the interview process. We’ll spend about 45 - 60 minutes writing code to solve a problem. We’re not assessing you on your deep technical knowledge or your understanding of the standard library, we’re more interested in how you solve a problem. With that in mind, feel free to search online for anything, ask questions etc. It’s not about how far we get through the exercise.
 
-## During the interview
+## Tips for the interviewer during the interview
 Provide guidance on where to start. For example, directory structure, where to add tests etc.
 
 Try not to touch the keyboard or dictate a solution as this doesn’t provide much detail about the candidate.
@@ -67,7 +67,9 @@ If you see a really obvious mistake, don’t let the candidate struggle with it.
 Ask why the candidate is doing things that way to help understand their thought process.
 
 ## After the interview
-Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1Pyr6pDMvisGAYPCOAAS1YDIrA_GXvCE4YUc3c-vk0H4/edit#gid=0). You may also find it useful to add some inline comments to the code. These will be useful in the wash-up for candidate, where the interviewers discuss the candidate as a whole and decide if an offer should be made or not.
+Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1Pyr6pDMvisGAYPCOAAS1YDIrA_GXvCE4YUc3c-vk0H4/edit#gid=0).
+Candidates can see what is expected at each level in the [people section](https://developers.theguardian.com/open-people.html) of our developers site.
+Interviewers may also find it useful to add some inline comments to the code. These will be useful in the wash-up for candidate, where the interviewers discuss the candidate as a whole and decide if an offer should be made or not.
 
 If the candidate is largely performing at the level they have applied for, let HR know that you’d recommend the candidate advance to the next stage of the process.
 
@@ -79,7 +81,7 @@ If the candidate has performed below the level they have applied for and there a
 
 Raise an issue or PR for any improvements to the exercises.
 
-## Next steps
+## Next steps for interviewers who have completed the training
 Get your name added to the [list of people who perform interviews](https://docs.google.com/spreadsheets/d/1o2zo8SBNY7GpIBV8JZDd1SPS7n3j1aZcCMB50yjhrQ4/edit?usp=drive_web&ouid=100705330630281350114).
 
 Ensure your calendar is up to date with holidays, working from home days etc as this helps determine availability.
