@@ -22,7 +22,7 @@ You will typically play the role of driver and the Guardian Engineer will be the
 The pairing test allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
 Ultimately, its a chance for us to understand what it would be like to work with you and also a chance for you to assess if the Guardian is a good fit for you.
 
-We’re not assessing your pure technical ability; searching online is perfectly fine and encouraged.
+This isn't a whiteboard coding exercise; searching online is perfectly fine and encouraged.
 
 ## What language?
 [From: Changing the Guardian's pairing test](https://www.theguardian.com/info/developer-blog/2014/may/28/changing-the-guardians-pairing-test)
