@@ -1,43 +1,44 @@
-# Guardian pairing tests
+# Guardian Pairing Tests
 
-This repo contains the pairing test exercises that are used in the Guardian recruitment process.
+Thank you in your interest in the Guardian Digital Department's pairing test. This repo contains the pairing test exercises used in the Guardian's recruitment process.
 
 [Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 
-Inspired to [work for us](http://developers.theguardian.com/join-the-team.html)?
+Inspired to work for us? [**Apply now**](http://developers.theguardian.com/join-the-team.html)
 
 ## What is it?
-The pairing test is the penultimate stage of the [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers) for the candidate.
+The pairing test is the penultimate stage of the [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
 
-It is a 45-60 minute exercise where you and the candidate work as a pair writing code to solve a problem.
+It is a 45-60 minute exercise where you and a Guardian Engineer work as a pair writing code to solve a problem.
 
 Similar to when you pair with a colleague, there will be a driver and a navigator. The driver will be the one at the keyboard, whilst the navigator will be on the side making suggestions and asking questions.
 
-The candidate will typically play the role of driver and the interviewer will be the navigator.
+You will typically play the role of driver and the Guardian Engineer will be the navigator.
 
 ## Why do we perform it?
 [From: How does the Guardian recruit developers?](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers)
 > I think pairing tests are the fairest form of interviewing you can offer. I know they can be stressful but they represent a big commitment in terms of effort and time. They create a situation that approximates the kind of work the organisation does rather than artificial trivia or whiteboard tests. They also give the candidate a chance to meet some of the people who already work at the Guardian and see if the environment suits them.
 
-The pairing test allows us to assess a candidate’s approach to solving a problem, what they prioritise, how they communicate their thinking and how they respond to any suggestions or advice. Ultimately, its a chance for us to assess what it would be like to work with the candidate and also a chance for the candidate to assess if the Guardian is a good fit for them.
+The pairing test allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
+Ultimately, its a chance for us to understand what it would be like to work with you and also a chance for you to assess if the Guardian is a good fit for you.
 
-We’re not assessing a candidate’s pure technical ability and searching online is perfectly fine and encouraged.
+This isn't a whiteboard coding exercise; searching online is perfectly fine and encouraged.
 
 ## What language?
 [From: Changing the Guardian's pairing test](https://www.theguardian.com/info/developer-blog/2014/may/28/changing-the-guardians-pairing-test)
 > ...allow candidates to do the pairing interview in the language of their choice. We would still prefer if candidates used our core languages of Scala, Python and JavaScript but if Haskell, Clojure, Ruby or Go are more your bag, then feel free.
 
-Whilst Scala or JavaScript, Swift/Objective C for iOS, Kotlin or Java for Android, are the preferred languages, a candidate can elect their own.
+Whilst Scala or JavaScript, Swift/Objective C for iOS, Kotlin or Java for Android, are the preferred languages, you can elect your own.
 
-In a few cases, it may be applicable for you to drive and the candidate to navigate. For example if the candidate has no knowledge about the language they have chosen. This should be rare.
+Although rare, you may elect a language that you do not have much experience with. In this scenario, the Guardian Engineer may play the role of driver.
 
-## What exercise?
+## Which exercise?
 [From: The Guardian's new pairing exercises](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 > ...we have decided to increase the number of pairing exercises, any of which can be picked by a Guardian developer prior to the pairing test.
 
-We have a public repository on GitHub with our pairing exercises. These exercises are used for every role.
+We use the exercises in this repository and they are used for every Engineering role.
 
-We have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
+We also have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
 
 ## Preparation for the interviewer
 Choose a pairing exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
@@ -58,7 +59,7 @@ Provide guidance on where to start. For example, directory structure, where to a
 
 Try not to touch the keyboard or dictate a solution as this doesn’t provide much detail about the candidate.
 
-If the candidate is struggling, guide the candidate to a solution. This can take many forms, such as diagramming, pseudo code etc.
+If the candidate is struggling, guide them to a solution. This can take many forms, such as diagramming, pseudo code etc.
 
 If you see a really obvious mistake, don’t let the candidate struggle with it. For example, if they’ve misspelt a variable, passed arguments to a function in the wrong order etc.
 
