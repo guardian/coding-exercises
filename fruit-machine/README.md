@@ -1,5 +1,7 @@
 # Fruit machine
 
+![fruit machine](slot-machine.png)
+
 We are going to create a virtual fruit machine. To make things easier instead of symbols we are going to use colours: black, white, green, yellow.
 
 Each time a player plays our fruit machine we display four 'slots' each with a randomly selected colour in each slot.
