@@ -1,13 +1,13 @@
-# Guardian Pairing Tests
+# Guardian Coding Exercises
 
-Thank you in your interest in the Guardian Digital Department's pairing test. This repo contains the pairing test exercises used in the Guardian's recruitment process.
+Thank you in your interest in the Guardian Digital Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process.
 
 [Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 
 Inspired to work for us? [**Apply now**](http://developers.theguardian.com/join-the-team.html)
 
 ## What is it?
-The pairing test is the penultimate stage of the [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
+The coding exercise is the penultimate stage of the [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
 
 It is a 45-60 minute exercise where you and a Guardian Engineer work as a pair writing code to solve a problem.
 
@@ -19,7 +19,7 @@ You will typically play the role of driver and the Guardian Engineer will be the
 [From: How does the Guardian recruit developers?](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers)
 > I think pairing tests are the fairest form of interviewing you can offer. I know they can be stressful but they represent a big commitment in terms of effort and time. They create a situation that approximates the kind of work the organisation does rather than artificial trivia or whiteboard tests. They also give the candidate a chance to meet some of the people who already work at the Guardian and see if the environment suits them.
 
-The pairing test allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
+The coding exercise allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
 Ultimately, its a chance for us to understand what it would be like to work with you and also a chance for you to assess if the Guardian is a good fit for you.
 
 This isn't a whiteboard coding exercise; searching online is perfectly fine and encouraged.
@@ -41,7 +41,7 @@ We use the exercises in this repository and they are used for every Engineering 
 We also have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
 
 ## Preparation for the interviewer
-Choose a pairing exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
+Choose an exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
 
 Turn off notifications and other possible distractions for the candidate; an easy way to do this is to use a different browser profile and closing your work profile.
 
@@ -52,7 +52,7 @@ The developer manager for the role will collect the candidate from reception and
 Offer the candidate a drink.
 
 Explain what you’re going to be doing today.
-> This is the pairing test stage of the interview process. We’ll spend about 45 - 60 minutes writing code to solve a problem. We’re not assessing you on your deep technical knowledge or your understanding of the standard library, we’re more interested in how you solve a problem. With that in mind, feel free to search online for anything, ask questions etc. It’s not about how far we get through the exercise.
+> This is the coding exercise stage of the interview process. We’ll spend about 45 - 60 minutes writing code to solve a problem. We’re not assessing you on your deep technical knowledge or your understanding of the standard library, we’re more interested in how you solve a problem. With that in mind, feel free to search online for anything, ask questions etc. It’s not about how far we get through the exercise.
 
 ## Tips for the interviewer during the interview
 Provide guidance on where to start. For example, directory structure, where to add tests etc.
