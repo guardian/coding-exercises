@@ -66,7 +66,7 @@ If you see a really obvious mistake, don’t let the candidate struggle with it.
 Ask why the candidate is doing things that way to help understand their thought process.
 
 ## After the interview
-Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1Pyr6pDMvisGAYPCOAAS1YDIrA_GXvCE4YUc3c-vk0H4/edit#gid=0).
+Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1k5dmB9WaqcUE3NjvAqHfnKytitslIbGs0bPhx-1t4wI/edit#gid=0).
 Candidates can see what is expected at each level in the [people section](https://developers.theguardian.com/open-people.html) of our developers site.
 Interviewers may also find it useful to add some inline comments to the code. These will be useful in the wash-up for candidate, where the interviewers discuss the candidate as a whole and decide if an offer should be made or not.
 
