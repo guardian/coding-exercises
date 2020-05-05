@@ -1,6 +1,6 @@
 # Guardian Coding Exercises
 
-Thank you in your interest in the Guardian Digital Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process.
+Thank you in your interest in the Guardian Digital Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process. These exercises are used for all engineering roles, at all levels. 
 
 [Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 
@@ -28,7 +28,7 @@ This isn't a whiteboard coding exercise; searching online is perfectly fine and 
 [From: Changing the Guardian's pairing test](https://www.theguardian.com/info/developer-blog/2014/may/28/changing-the-guardians-pairing-test)
 > ...allow candidates to do the pairing interview in the language of their choice. We would still prefer if candidates used our core languages of Scala, Python and JavaScript but if Haskell, Clojure, Ruby or Go are more your bag, then feel free.
 
-Whilst Scala or JavaScript, Swift/Objective C for iOS, Kotlin or Java for Android, are the preferred languages, you can elect your own.
+Whilst we prefer you pick the languages Scala or JavaScript for Full-stack roles, JavaScript or TypeScript for Client-side roles, Swift/Objective C for iOS roles, Kotlin or Java for Android roles, you can still elect to use any other language (e.g. Java/Go/Ruby), providing we can find somebody to pair with you.
 
 Although rare, you may elect a language that you do not have much experience with. In this scenario, the Guardian Engineer may play the role of driver.
 
