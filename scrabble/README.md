@@ -34,7 +34,7 @@ Use these points for each letter:
 - 1 tiles: K,J,X,Q,Z
 ```
 
-* Find a valid word formed from the seven tiles. A list of valid words can be found in `twl06.txt`.
+* Find a valid word formed from the seven tiles. A list of valid words can be found in [`dictionary.txt`](./dictionary.txt).
 * Find the longest valid word that can be formed from the seven tiles.
 * Find the highest scoring word that can be formed.
 * Find the highest scoring word if any one of the letters can score triple.
