@@ -85,7 +85,7 @@ Get your name added to the [list of people who perform interviews](https://docs.
 
 Ensure your calendar is up to date with holidays, working from home days etc as this helps determine availability.
 
-More (internal) resources for Guardian Digital recruitment are available [here](https://drive.google.com/drive/folders/0BymWyuuyvGCCdjEySVlpWVkzUlE).
+More (internal) resources for Guardian Digital recruitment are available [here](https://drive.google.com/drive/folders/0ACeWcaLt-MNVUk9PVA).
 
 
 ## License
