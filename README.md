@@ -41,18 +41,14 @@ We use the exercises in this repository and they are used for every Engineering 
 We also have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
 
 ## Preparation for the interviewer
-Choose an exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
+Choose an exercise and ensure the candidate has cloned the [skeleton project repository](https://github.com/guardian/pairing-test-project) on their machine.
 
 Turn off notifications and other possible distractions for the candidate; an easy way to do this is to use a different browser profile and closing your work profile.
 
 Get some pen and paper in case the candidate (or you) need to draw anything.
 
-The developer manager for the role will collect the candidate from reception and bring them to your desk.
-
-Offer the candidate a drink.
-
 Explain what you’re going to be doing today.
-> This is the coding exercise stage of the interview process. We’ll spend about 45 - 60 minutes writing code to solve a problem. We’re not assessing you on your deep technical knowledge or your understanding of the standard library, we’re more interested in how you solve a problem. With that in mind, feel free to search online for anything, ask questions etc. It’s not about how far we get through the exercise.
+> This is the coding exercise stage of the interview process. We’ll spend about 45 - 60 minutes writing code to solve a problem. We’re not assessing you on your deep technical knowledge or your understanding of the standard library, we’re more interested in how you solve a problem. With that in mind, feel free to search online for anything, ask questions etc. It’s not about how far we get through the exercise. You will be required to submit your submission as a Gist or zip.
 
 ## Tips for the interviewer during the interview
 Provide guidance on where to start. For example, directory structure, where to add tests etc.
@@ -68,7 +64,7 @@ Ask why the candidate is doing things that way to help understand their thought 
 ## After the interview
 Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1k5dmB9WaqcUE3NjvAqHfnKytitslIbGs0bPhx-1t4wI/edit#gid=0).
 Candidates can see what is expected at each level in the [people section](https://developers.theguardian.com/open-people.html) of our developers site.
-Interviewers may also find it useful to add some inline comments to the code. These will be useful in the wash-up for candidate, where the interviewers discuss the candidate as a whole and decide if an offer should be made or not.
+Remember to request the candidate’s source code. Interviewers may also find it useful to add some inline comments to the code. These will be useful in the wash-up for candidate, where the interviewers discuss the candidate as a whole and decide if an offer should be made or not.
 
 If the candidate is largely performing at the level they have applied for, let HR know that you’d recommend the candidate advance to the next stage of the process.
 
