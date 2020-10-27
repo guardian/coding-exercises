@@ -42,7 +42,7 @@ We also have [this repository](https://github.com/guardian/pairing-test-project)
 
 ## Process
 
-Interviewers should review the [in-person](/PROCESS_IN_PERSON.md) or [remote](/PROCESS_REMOTE) process as applicable.
+Interviewers should review the [in-person](/PROCESS_IN_PERSON.md) or [remote](/PROCESS_REMOTE.md) process as applicable.
 
 ## License
 

@@ -1,6 +1,6 @@
 # How to conduct an in-person interview
 
-> Guidance differs slighly for [in-person interviews](/PROCESS_IN_PERSON.md)
+> Guidance differs slighly for [remote interviews](/PROCESS_REMOTE.md)
 
 ## Preparation for the interviewer
 Choose an exercise, checkout the [skeleton project repository](https://github.com/guardian/pairing-test-project), prepare your machine and setup up your IDE.
