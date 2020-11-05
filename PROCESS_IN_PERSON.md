@@ -1,3 +1,5 @@
+_intended audience: interviewer_
+
 # How to conduct an in-person interview
 
 > Guidance differs slighly for [remote interviews](/PROCESS_REMOTE.md)

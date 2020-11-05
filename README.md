@@ -40,9 +40,12 @@ We use the exercises in this repository and they are used for every Engineering 
 
 We also have [this repository](https://github.com/guardian/pairing-test-project) on GitHub with skeleton projects that can be used.
 
-## Process
+## More information
+More information for candidates can be found [here](./CANDIDATE_INFORMATION.md).
 
-Interviewers should review the [in-person](/PROCESS_IN_PERSON.md) or [remote](/PROCESS_REMOTE.md) process as applicable.
+More information for interviewers can be found:
+- [here](./PROCESS_IN_PERSON.md) for in person interviews
+- [here](./PROCESS_REMOTE.md) for remote interviews
 
 ## License
 
