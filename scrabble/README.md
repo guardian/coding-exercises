@@ -4,7 +4,7 @@ Word Game (Scrabble)
 
 This is a game where players attempt to create words from a set of letter tiles.  Different letters have different points allocated to them.
 
-* Calculate the score for a word. The score is the sum of the points for the letters that make up a word. For example:
+1. Calculate the score for a word. The score is the sum of the points for the letters that make up a word. For example:
 
 GUARDIAN = 2 + 1 + 1 + 1 + 2 + 1 + 1 + 1 = 10
 
@@ -20,8 +20,8 @@ Use these points for each letter:
 - 10 points: Q, Z
 ```
 
-* Assign seven tiles chosen randomly from the english alphabet to a player's rack.
-* In the real game, tiles are taken at random from a 'bag' containing a fixed number of each tile. Assign seven tiles to a rack using a bag containing this distribution:
+2. Assign seven tiles chosen randomly from the english alphabet to a player's rack.
+3. In the real game, tiles are taken at random from a 'bag' containing a fixed number of each tile. Assign seven tiles to a rack using a bag containing this distribution:
 
 ```
 - 12 tiles: E
@@ -34,8 +34,8 @@ Use these points for each letter:
 - 1 tiles: K,J,X,Q,Z
 ```
 
-* Find a valid word formed from the seven tiles. A list of valid words can be found in [`dictionary.txt`](./dictionary.txt).
-* Find the longest valid word that can be formed from the seven tiles.
-* Find the highest scoring word that can be formed.
-* Find the highest scoring word if any one of the letters can score triple.
-* For discussion: how would we adapt our solution for a multiplayer environment?
+4. Find a valid word formed from the seven tiles. A list of valid words can be found in [`dictionary.txt`](./dictionary.txt).
+5. Find the longest valid word that can be formed from the seven tiles.
+6. Find the highest scoring word that can be formed.
+7. Find the highest scoring word if any one of the letters can score triple.
+8. For discussion: how would we adapt our solution for a multiplayer environment?
