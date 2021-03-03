@@ -6,9 +6,7 @@ _intended audience: interviewer_
 
 ## Prior to the interview
 
-The candidate will have been sent a link to this Google Document: [“The Guardian Coding Exercise Candidate Information”][gdoc], highlighting the remote interview process.
-
-[gdoc]: https://docs.google.com/document/d/1aHqrKfAJQa7oj92m_vftRr2HxGjijAHjjMqDtv02NVo/edit
+The candidate will have been sent a link to [the candidate information](/CANDIDATE_INFORMATION.md), highlighting the remote interview process.
 
 ## Preparation for the interviewer
 The candidate should have cloned the [skeleton project repository](https://github.com/guardian/pairing-test-project) on their machine.
