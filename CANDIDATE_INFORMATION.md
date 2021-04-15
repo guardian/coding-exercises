@@ -9,7 +9,7 @@ It provides in depth information about this stage: why we perform it, what we’
 
 As an overview, you’ll spend 60 minutes with a software engineer, 
 working through **one** of the exercises in this repository. 
-You will be writing a program that can be run from the command line.
+You will be writing a program that can be run from the command line. You will also have the opportunity to ask the interviewer questions about the interview process, the role, the company, etc.
 
 Your interviewer will tell you which exercise you’ll be working on at the start of the interview.
 
