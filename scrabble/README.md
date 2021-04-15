@@ -1,6 +1,6 @@
 # Word Game (Scrabble)
 
-![scrabble](https://www.word-grabber.com/3/m/2012/02/scrabble-rack-with-tiles.jpg)
+![scrabble](./scrabble.png)
 
 ## Background
 This is a game where players attempt to create words from a set of letter tiles.
