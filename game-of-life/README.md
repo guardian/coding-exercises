@@ -4,7 +4,7 @@
 
 The Game of Life is a cellular automaton. 
 
-It it discussed in detail on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+It is discussed in detail on [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Rules
 
@@ -28,4 +28,3 @@ At each turn, the state of a cell may either be "alive" or "dead"; determined by
 
 There are many features which may exist in the game of life, an interesting class of them is the spaceship.
 Seed a grid with the [heavyweight spaceship](https://conwaylife.com/wiki/Heavyweight_spaceship) a [pattern file](https://www.conwaylife.com/patterns/hwss.cells) should be used. 
-
