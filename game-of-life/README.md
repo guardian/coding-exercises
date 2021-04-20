@@ -19,7 +19,11 @@ At each turn, the state of a cell may either be "alive" or "dead"; determined by
 
 ## Tasks
 
-1. Implement a grid for the game to take place on. Carefully consider what happens at the edges.
+1. Implement a grid for the game to take place on. 
+2. Carefully consider what happens at the edges.
+3. Implement the game of life for a single iteration.
+4. Display the results for a single iteration.
+5. Animate the game so that it is played in real time.
 2. Implement the game of life for a single iteration.
 3. Display the results for a single iteration.
 4. Animate the game so that it is played in real time.
