@@ -16,6 +16,8 @@ Your interviewer will tell you which exercise you’ll be working on at the star
 ## Remote Interviews
 We conduct remote interviews over [Google Meet](https://meet.google.com/).
 Google Meet is a video conferencing tool that supports screen sharing.
+Google Meet is supported by the major browsers. Full requirements can be found [here](https://support.google.com/meet/answer/7317473?hl=en-GB).
+
 A link will be included on your interview invitation, click it to join.
 Once joined, your interviewer will ask you to share your screen.
 
