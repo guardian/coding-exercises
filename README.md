@@ -30,8 +30,6 @@ This isn't a whiteboard coding exercise; searching online is perfectly fine and 
 
 Whilst we prefer that you pick Scala or JavaScript for Full-stack roles, JavaScript or TypeScript for Client-side roles, Swift/Objective C for iOS roles, Kotlin or Java for Android roles, you can still elect to use any other language (e.g. PHP/Go/Ruby), providing we can find somebody to pair with you.
 
-Although rare, you may elect a language that you do not have much experience with. In this scenario, the Guardian Engineer may play the role of driver.
-
 ## Which exercise?
 [From: The Guardian's new pairing exercises](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 > ...we have decided to increase the number of pairing exercises, any of which can be picked by a Guardian developer prior to the pairing test.
