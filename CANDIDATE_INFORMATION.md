@@ -21,12 +21,14 @@ Once joined, your interviewer will ask you to share your screen.
 
 Please note, enabling your camera is optional.
 
-### Before the interview
-We recommend your coding environment be setup **before** the interview starts.
-This is to allow you as much time as possible to demonstrate your skills as we do not assess your IDE setup.
+We do not assess your IDE setup.
 
-We provide [skeleton projects](https://github.com/guardian/coding-exercise-project) in a few programming languages,
-or you can set up an empty project from scratch.
+### Before the interview
+**Please have your coding environment set up before the interview starts.**
+
+This is to ensure we maximise the time we have for you to demonstrate your skills.
+
+We have a few [starter projects](https://github.com/guardian/coding-exercise-project) that you can use or you can set up an empty project from scratch.
 
 ### After the interview
 At the end of your interview, you’ll be asked to share your solution with your interviewer for later reference,
