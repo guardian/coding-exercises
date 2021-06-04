@@ -1,26 +1,26 @@
 # Guardian Coding Exercises
 
-Thank you in your interest in the Guardian Digital Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process. These exercises are used for all engineering roles, at all levels. 
+Thank you for your interest in the Guardian Product & Engineering Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process. These exercises are used for all engineering roles, at all levels. 
 
 [Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 
 Inspired to work for us? [**Apply now**](http://developers.theguardian.com/join-the-team.html)
 
 ## What is it?
-The coding exercise is the penultimate stage of the [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
+The coding exercise is one of the stages in our [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
 
-It is a 45-60 minute exercise where you and a Guardian Engineer work as a pair writing code to solve a problem.
+It is a 45-60 minute exercise where you and a Guardian engineer work as a pair writing code to solve a problem.
 
-Similar to when you pair with a colleague, there will be a driver and a navigator. The driver will be the one at the keyboard, whilst the navigator will be on the side making suggestions and asking questions.
+Similar to when you pair with a colleague, there will be a driver and a navigator. The driver will be the one at the keyboard, whilst the navigator will be making suggestions and asking questions.
 
-You will typically play the role of driver and the Guardian Engineer will be the navigator.
+You will typically play the role of driver and the Guardian engineer will be the navigator.
 
 ## Why do we perform it?
 [From: How does the Guardian recruit developers?](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers)
 > I think pairing tests are the fairest form of interviewing you can offer. I know they can be stressful but they represent a big commitment in terms of effort and time. They create a situation that approximates the kind of work the organisation does rather than artificial trivia or whiteboard tests. They also give the candidate a chance to meet some of the people who already work at the Guardian and see if the environment suits them.
 
 The coding exercise allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
-Ultimately, its a chance for us to understand what it would be like to work with you and also a chance for you to assess if the Guardian is a good fit for you.
+Ultimately, it's a chance for us to understand what it would be like to work with you and also a chance for you to assess if the Guardian is a good fit for you.
 
 This isn't a whiteboard coding exercise; searching online is perfectly fine and encouraged.
 
@@ -42,9 +42,9 @@ We also have [this repository](https://github.com/guardian/pairing-test-project)
 More information for candidates can be found [here](./CANDIDATE_INFORMATION.md).
 
 More information for interviewers can be found:
-- [here](./PROCESS_IN_PERSON.md) for in person interviews
+- [here](./PROCESS_IN_PERSON.md) for in-person interviews
 - [here](./PROCESS_REMOTE.md) for remote interviews
 
-## License
+## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
