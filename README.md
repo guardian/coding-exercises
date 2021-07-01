@@ -4,7 +4,7 @@ Thank you for your interest in the Guardian Product & Engineering Department's c
 
 [Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 
-Inspired to work for us? [**Apply now**](http://developers.theguardian.com/join-the-team.html)
+Inspired to work for us? [**Apply now**](https://workforus.theguardian.com/index.php/careers/product-engineering/)
 
 ## What is it?
 The coding exercise is one of the stages in our [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
