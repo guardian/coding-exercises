@@ -14,6 +14,7 @@ The robot should accept the following commands:
 * W move west
 * E move east
 * S move south
+* H move to south west corner (home)
 
 ### Example command sequences
 
