@@ -12,15 +12,15 @@ Can you write a program that takes orders from customers and sequences what I sh
 
 So if I have four sandwich orders the schedule should be:
 
-1. 0:00 4 sandwich orders placed, start making sandwich 1
-1. 0:60 serve sandwich 1
-1. 1:30 make sandwich 2
-1. 2:30 serve sandwich 2
-1. 3:00 make sandwich 3
-1. 4:00 serve sandwich 3
-1. 4:30 make sandwich 4
-1. 5:30 serve sandwich 4
-1. 6:00 take a well earned break!
+1. `0:00` 4 sandwich orders placed, start making sandwich 1
+1. `1:00` serve sandwich 1
+1. `1:30` make sandwich 2
+1. `2:30` serve sandwich 2
+1. `3:00` make sandwich 3
+1. `4:00` serve sandwich 3
+1. `4:30` make sandwich 4
+1. `5:30` serve sandwich 4
+1. `6:00` take a well earned break!
 
 ## Estimates
 
@@ -50,15 +50,15 @@ Please modify the order system to include jacket potatoes.
 
 So if there are orders for two sandwiches and a jacket potato the schedule should be:
 
-1. 0:00 Put jacket potato in microwave
-1. 0:01 Make sandwich 1
-1. 1:01 Serve sandwich 1
-1. 1:31 Make sandwich 2
-1. 2:31 Serve sandwich 2
-1. 3:01 take jacket potato out of microwave
-1. 3:31 top jacket potato
-1. 4:01 serve jacket potato
-1. 4:31 take a break!
+1. `0:00` Put jacket potato in microwave
+1. `0:01` Make sandwich 1
+1. `1:01` Serve sandwich 1
+1. `1:31` Make sandwich 2
+1. `2:31` Serve sandwich 2
+1. `3:01` take jacket potato out of microwave
+1. `3:31` top jacket potato
+1. `4:01` serve jacket potato
+1. `4:31` take a break!
 
 ### Potato inventory
 
