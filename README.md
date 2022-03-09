@@ -7,7 +7,7 @@ Thank you for your interest in the Guardian Product & Engineering Department's c
 Inspired to work for us? [**Apply now**](https://workforus.theguardian.com/index.php/careers/product-engineering/)
 
 ## What is it?
-The coding exercise is one of the stages in our [interview process](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers).
+The coding exercise is one of the stages in our [interview process](https://www.theguardian.com/info/2022/feb/25/how-we-have-changed-our-application-and-hiring-processes).
 
 It is a 45-60 minute exercise where you and a Guardian engineer work as a pair writing code to solve a problem.
 
