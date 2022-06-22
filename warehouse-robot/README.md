@@ -1,4 +1,4 @@
-# Robot Warehouse
+# Warehouse Robot
 
 We have installed a robot in our warehouse and now we need to be able to send it commands to control it. We need you to implement the control mechanism.
 
