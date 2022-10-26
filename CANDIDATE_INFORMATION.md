@@ -21,9 +21,10 @@ Google Meet is supported by the major browsers. Full requirements can be found [
 A link will be included on your interview invitation, click it to join.
 Once joined, your interviewer will ask you to share your screen.
 
-Please note, enabling your camera is optional.
-
-We do not assess your IDE setup.
+> **Note**
+> - Turning on your camera is optional.
+> - We do not assess your IDE setup.
+> - We currently do not allow the use of GitHub Copilot and similar tools.
 
 ### Before the interview
 **Please have your coding environment set up before the interview starts.**
