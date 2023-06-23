@@ -6,6 +6,8 @@ direction, first. Diagonals are allowed.
 
 https://en.wikipedia.org/wiki/Connect_Four
 
+Here is a quick 20 second video: https://www.youtube.com/watch?v=ylZBRUJi3UQ
+
 ## Tasks
 
 The aim is to develop an interactive version of the game which the
