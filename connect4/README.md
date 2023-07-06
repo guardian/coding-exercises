@@ -20,7 +20,7 @@ via the terminal.
 
 A minimal version of the game should support:
 
-- a 6 x 7 grid (6 columns, 7 rows).
+- a 6 x 7 grid (6 rows, 7 columns).
 - players play pieces sequentially
 - the game identifies winning turns and ends at that point
 
