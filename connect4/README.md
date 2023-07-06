@@ -16,11 +16,11 @@ candidate and interviewer can play together.
 A simple, text-based, representation of the grid is encouraged to
 start with. For example, you might use '.' for empty slots, and 'x'
 and 'o' for pieces of the two players. Players can input their turns
-via the REPL.
+via the terminal.
 
 A minimal version of the game should support:
 
-- a 6 x 7 grid
+- a 6 x 7 grid (6 columns, 7 rows).
 - players play pieces sequentially
 - the game identifies winning turns and ends at that point
 
