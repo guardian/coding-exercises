@@ -16,11 +16,15 @@ So for example:
     Cardiff West, 11014, C, 17803, L, 4923, UKIP, 2069, LD
     Islington South & Finsbury, 22547, L, 9389, C, 4829, LD, 3375, UKIP, 3371, G, 309, Ind
 
-We want to transform this into a standard result that shows:
 
-* the constituency name
-* translates the party code into a full name
-* shows the share of the vote as a percentage of all the votes cast
+## Tasks:
+We want to transform this into a cleaned-up result that shows:
+
+a) the constituency name
+b) the result for each party
+c) find the winner for each constituency
+d) translates the party code into a full name
+e) shows the share of the vote as a percentage of all the votes cast
 
 ### Codes
 
@@ -32,9 +36,12 @@ We want to transform this into a standard result that shows:
 * Ind - Independent
 * SNP - SNP
 
+
+## Extension tasks:
+
 ### Validation
 
-If there is a problem with the format of the results file then all good entries should result in output and the error should go to a separate error log with the problem explained in non-technical language that a journalist might be able to understand and report back to the results service.
+If loading as a separate CSV file, and there is a problem with the format of the results file then all good entries should result in output and the error should go to a separate error log with the problem explained in non-technical language that a journalist might be able to understand and report back to the results service.
 
 ## Enhancements
 
