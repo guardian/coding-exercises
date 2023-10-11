@@ -16,16 +16,6 @@ So for example:
     "Cardiff West, 11014, C, 17803, L, 4923, UKIP, 2069, LD",
     "Islington South & Finsbury, 22547, L, 9389, C, 4829, LD, 3375, UKIP, 3371, G, 309, Ind"
 
-
-## Tasks:
-We want to transform this into a cleaned-up result that shows:
-
-a) the constituency name
-b) the result for each party
-c) find the winner for each constituency
-d) translates the party code into a full name
-e) shows the share of the vote as a percentage of all the votes cast
-
 ### Codes
 
 * C - Conservative Party
@@ -35,6 +25,21 @@ e) shows the share of the vote as a percentage of all the votes cast
 * G - Green Party
 * Ind - Independent
 * SNP - SNP
+
+
+## Tasks:
+We want to transform this into a cleaned-up result that shows:
+
+a) the constituency name
+
+b) the result for each party
+
+c) find the winner for each constituency
+
+d) translates the party code into a full name
+
+e) shows the share of the vote as a percentage of all the votes cast
+
 
 
 ## Extension tasks:
