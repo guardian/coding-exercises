@@ -30,15 +30,15 @@ So for example:
 ## Tasks:
 We want to transform this into a cleaned-up result that shows:
 
-a) the constituency name
+1. the constituency name
 
-b) the result for each party
+2. the result for each party
 
-c) find the winner for each constituency
+3. find the winner for each constituency
 
-d) translates the party code into a full name
+4. translates the party code into a full name
 
-e) shows the share of the vote as a percentage of all the votes cast
+5. shows the share of the vote as a percentage of all the votes cast
 
 
 
