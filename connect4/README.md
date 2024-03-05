@@ -13,7 +13,7 @@ Here is a quick 20 second video: https://www.youtube.com/watch?v=ylZBRUJi3UQ
 The aim is to develop an interactive version of the game which two players can play together.
 
 A simple, text-based, representation of the grid is encouraged to
-start with. For example, you might use '.' for empty slots, and 'x'
+start with. **You should use** '.' for empty slots, and 'x'
 and 'o' for pieces of the two players. Players can input their turns
 via test assertions.
 
