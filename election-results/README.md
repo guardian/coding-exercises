@@ -8,7 +8,7 @@ The fields in the file will be separated by commas but each row will vary in len
 
 A result will consist of:
 
-1. A constituency
+1. A constituency name
 2. A repeating set of pairs with the party code and the votes cast
 
 So for example:
@@ -20,11 +20,11 @@ So for example:
 ## Tasks:
 We want to transform this into a cleaned-up result that shows:
 
-a) the constituency name
-b) the result for each party
-c) find the winner for each constituency
-d) translates the party code into a full name
-e) shows the share of the vote as a percentage of all the votes cast
+a) the constituency name  
+b) the result for each party  
+c) find the winner for each constituency  
+d) translates the party code into a full name  
+e) shows the share of the vote as a percentage of all the votes cast  
 
 ### Codes
 
@@ -41,7 +41,7 @@ e) shows the share of the vote as a percentage of all the votes cast
 
 ### Validation
 
-If loading as a separate CSV file, and there is a problem with the format of the results file then all good entries should result in output and the error should go to a separate error log with the problem explained in non-technical language that a journalist might be able to understand and report back to the results service.
+If loading this data as a separate CSV file, and there is a problem with the format of the results file then all good entries should result in output explaining the error. The error should go to a separate error log with the problem explained in non-technical language that a journalist might be able to understand, and report back to the results service.
 
 ## Enhancements
 
