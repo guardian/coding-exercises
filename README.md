@@ -28,7 +28,7 @@ This isn't a whiteboard coding exercise; searching online is perfectly fine and 
 [From: Changing the Guardian's pairing test](https://www.theguardian.com/info/developer-blog/2014/may/28/changing-the-guardians-pairing-test)
 > ...allow candidates to do the pairing interview in the language of their choice. We would still prefer if candidates used our core languages of Scala, Python and JavaScript but if Haskell, Clojure, Ruby or Go are more your bag, then feel free.
 
-Whilst we prefer that you pick Scala or JavaScript for Full-stack roles, JavaScript or TypeScript for Client-side roles, Swift/Objective C for iOS roles, Kotlin or Java for Android roles, you can still elect to use any other language (e.g. PHP/Go/Ruby), providing we can find somebody to pair with you.
+Whilst we prefer that you pick Scala or TypeScript for Full-stack or Server-side roles, JavaScript or TypeScript for Client-side roles, Swift/Objective C for iOS roles, Kotlin or Java for Android roles, you can still elect to use any other language (e.g. PHP/Go/Ruby), providing we can find somebody to pair with you.
 
 ## Which exercise?
 [From: The Guardian's new pairing exercises](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
