@@ -2,12 +2,12 @@
 
 Thank you for your interest in the Guardian Product & Engineering Department's coding exercises. This repo contains exercises used in the Guardian's recruitment process. These exercises are used for all engineering roles, at all levels. 
 
-[Why have we published our exercises?](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
+[Why have we published our exercises?](https://theguardian.engineering/blog/info-developer-blog-2016-jan-20-the-guardians-new-pairing-exercises)
 
-Inspired to work for us? [**Apply now**](https://workforus.theguardian.com/index.php/careers/product-engineering/)
+Inspired to work for us? [**Apply now**](https://workwithus.theguardian.com/our-teams/product-and-engineering)
 
 ## What is it?
-The coding exercise is one of the stages in our [interview process](https://www.theguardian.com/info/2022/feb/25/how-we-have-changed-our-application-and-hiring-processes).
+The coding exercise is one of the stages in our [interview process](https://theguardian.engineering/blog/info-2022-feb-25-how-we-have-changed-our-application-and-hiring-processes).
 
 It is a 45-60 minute exercise where you and a Guardian engineer work as a pair writing code to solve a problem.
 
@@ -16,7 +16,7 @@ Similar to when you pair with a colleague, there will be a driver and a navigato
 You will typically play the role of driver and the Guardian engineer will be the navigator.
 
 ## Why do we perform it?
-[From: How does the Guardian recruit developers?](https://www.theguardian.com/info/developer-blog/2015/jan/20/how-does-the-guardian-recruit-developers)
+[From: How does the Guardian recruit developers?](https://theguardian.engineering/blog/info-developer-blog-2015-jan-20-how-does-the-guardian-recruit-developers)
 > I think pairing tests are the fairest form of interviewing you can offer. I know they can be stressful but they represent a big commitment in terms of effort and time. They create a situation that approximates the kind of work the organisation does rather than artificial trivia or whiteboard tests. They also give the candidate a chance to meet some of the people who already work at the Guardian and see if the environment suits them.
 
 The coding exercise allows us to assess your approach to solving a problem, what you prioritise, how you communicate your thinking and how you respond to any suggestions or advice. 
