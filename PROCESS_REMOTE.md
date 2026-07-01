@@ -34,7 +34,7 @@ Ask why the candidate is doing things that way to help understand their thought 
 
 ## After the interview
 Write up some notes about the interview focusing on the [assessment criteria](https://docs.google.com/spreadsheets/d/1k5dmB9WaqcUE3NjvAqHfnKytitslIbGs0bPhx-1t4wI/edit#gid=0).
-Candidates can see what is expected at each level in the [people section](https://developers.theguardian.com/open-people.html) of our developers site.
+Candidates can see what is expected at each level in the [people section](https://theguardian.engineering/open-people) of our developers site.
 Remember to request the candidate’s source code as a Github Gist or zip file.
 
 If the candidate is largely performing at the level they have applied for, let HR know that you’d recommend the candidate advance to the next stage of the process.
@@ -52,4 +52,4 @@ Get your name added to the [list of people who perform interviews](https://docs.
 
 Ensure your calendar is up to date with holidays, working from home days etc. as this helps determine availability.
 
-More (internal) resources for Guardian Digital recruitment are available [here](https://drive.google.com/drive/folders/0ACeWcaLt-MNVUk9PVA).
+The Pairing Test interview training can be found [here](https://docs.google.com/presentation/d/1UAge877PBrNdyPiqRvK8Dyvp08DLbgpKUtyWJXRzmaQ/edit?usp=sharing)

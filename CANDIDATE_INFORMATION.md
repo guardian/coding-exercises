@@ -24,7 +24,6 @@ Once joined, your interviewer will ask you to share your screen.
 > **Note**
 > - Turning on your camera is optional.
 > - We do not assess your IDE setup.
-> - We currently do not allow the use of GitHub Copilot and similar tools.
 
 ### Before the interview
 **Please have your coding environment set up before the interview starts.**
