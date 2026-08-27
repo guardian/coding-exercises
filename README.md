@@ -30,6 +30,27 @@ This isn't a whiteboard coding exercise; searching online is perfectly fine and 
 
 Whilst we prefer that you pick Scala or TypeScript for Full-stack or Server-side roles, JavaScript or TypeScript for Client-side roles, Swift/Objective C for iOS roles, Kotlin or Java for Android roles, you can still elect to use any other language (e.g. PHP/Go/Ruby), providing we can find somebody to pair with you.
 
+## Can I use AI tools?
+Yes - at the moment we are running a trial allowing candidates to use AI tools (e.g. GitHub Copilot, ChatGPT, Claude Code, Codex) during the coding exercise, but we require full transparency if you plan to use any.
+
+Our goal is to assess your problem-solving ability, communication, and engineering judgement. AI tools should complement your skills, not replace them.
+
+You will not be penalised if you choose not to use AI assistance during the coding exercise.
+
+### What we look for
+- **Ownership and understanding**: you are responsible for every line of code submitted. You should be able to explain, defend, correct and refactor any generated code.
+- **Light-touch usage**: the most successful candidates tend to use AI as an intelligent autocomplete for syntax, boilerplate or specific functions, rather than relying on it to solve the high-level problem.
+- **Verification**: treat AI output like a draft. Check edge cases, verify correctness, and refine overcomplicated output.
+- **Readability**: code clarity matters. Ensure any generated code meets high standards for readability and maintainability.
+
+### The rules of engagement
+- **Full transparency**: we require you to disclose all AI usage and share all screens used in the coding exercise. 
+- **Avoid over-rehearsing**: we strongly discourage using AI to pre-solve all the exercises before the interview. Rehearsed solutions tend to hurt candidates in a live interview.
+- **No one-shot solutions**: do not paste the full exercise prompt into an AI tool to generate a complete solution. This makes it very hard for us to evaluate your problem-solving process.
+- **Plan first, prompt second**: spend the first few minutes understanding the core problem and forming an approach and explain your plan to your interviewer. Your design decisions should drive the AI, not the other way around.
+- **Work in small iterations**: prompt for small, isolated pieces (e.g. single functions or utility helpers) rather than massive rewrites. Avoid setting off multiple tasks at once. 
+- **Talk us through it**: narrate your thinking out loud - including what you are prompting the AI to do and why. Silence while waiting for generated code gives us no insight into your thought process.
+
 ## Which exercise?
 [From: The Guardian's new pairing exercises](https://www.theguardian.com/info/developer-blog/2016/jan/20/the-guardians-new-pairing-exercises)
 > ...we have decided to increase the number of pairing exercises, any of which can be picked by a Guardian developer prior to the pairing test.
